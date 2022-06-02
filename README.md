@@ -4,7 +4,7 @@
 
 Just download/clone this repo, open the root directory in a terminal and run:
 
-1. yarn _or npm_ _may need to download yarn or npm if not already installed_
+1. yarn \*or npm, may need to download yarn or npm if not already installed
 
 2. nodemon server
 
