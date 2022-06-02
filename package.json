@@ -1,0 +1,16 @@
+{
+	"name": "pixi-mmo",
+	"version": "1.0.0",
+	"main": "app.js",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.18.1"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.16"
+	},
+	"scripts": {
+		"dev": "nodemon server",
+		"start": "node server"
+	}
+}
