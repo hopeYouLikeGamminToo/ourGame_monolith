@@ -14,4 +14,4 @@ You may notice it is just a black triangle, but it represents much more!
 
 I went down a little tooling/networking rabbit hole while figuring out how to set the project up with pixi.js. When I finally got it set up and started the pixi tutorial, I was linked to this post:
 
-<a src="http://rampantgames.com/blog/?p=7745"> Black Triangle </a>
+<a href="http://rampantgames.com/blog/?p=7745"> Black Triangle </a>
